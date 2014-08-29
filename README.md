@@ -39,6 +39,7 @@ When one editor admit to do post-processing, he/she copies the photo to his dire
 - `102` Lite YTT
 - `103` Tianyu Fang
 - `104` KawaiiUshio
+- `105` Tianhao Chai (cth451)
 
 All photos are belongings of their respective owners. AOSC uses them under authorization.
 
