@@ -42,6 +42,7 @@ When one editor admit to do post-processing, he/she copies the photo to his dire
 - `105` Tianhao Chai (cth451)
 - `106` Das_HFer
 - `107` Shaofeng Liu
+- `108` Jeff Bai
 
 All photos are belongings of their respective owners. AOSC uses them under authorization.
 
