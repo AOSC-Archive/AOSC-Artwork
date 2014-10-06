@@ -44,6 +44,8 @@ When one editor admit to do post-processing, he/she copies the photo to his dire
 - `107` Shaofeng Liu
 - `108` Jeff Bai
 - `109` Bill Lin
+- `110` 顾郁晨 (tiantianyouchen)
+- `111` Tom Bu
 
 All photos are belongings of their respective owners. AOSC uses them under authorization.
 
