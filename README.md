@@ -46,6 +46,7 @@ When one editor admit to do post-processing, he/she copies the photo to his dire
 - `109` Bill Lin
 - `110` 顾郁晨 (tiantianyouchen)
 - `111` Tom Bu
+- `112` Steph de los Estados Unidos
 
 All photos are belongings of their respective owners. AOSC uses them under authorization.
 
