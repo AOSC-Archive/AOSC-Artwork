@@ -163,8 +163,22 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">	
-		<name>Walden</name>
-		<filename>/usr/share/backgrounds/aosc/111005.jpg</filename>
+		<name>Chinstrap Family</name>
+		<filename>/usr/share/backgrounds/aosc/112001.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">	
+		<name>Flying Gentoo</name>
+		<filename>/usr/share/backgrounds/aosc/112002.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">	
+		<name>Seal on the Ice</name>
+		<filename>/usr/share/backgrounds/aosc/112003.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
